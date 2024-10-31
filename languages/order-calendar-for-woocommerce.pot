@@ -1,0 +1,157 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Order Calendar for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-13 03:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.2; wp-5.4"
+
+#: admin/class-pisol-dtt-edd-advance.php:68
+msgid "Advance Report (Pro)"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:28
+msgid "Assign group who can access customer details present in the order"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:30
+msgid "Assign group who can access product details present in the order"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-admin-calendar.php:33
+msgid "Calendar"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:74
+msgid "Calendar Access (Pro)"
+msgstr ""
+
+#: admin/class-calendar-navigation.php:30
+msgid "Delivery Dates"
+msgstr ""
+
+#: admin/class-calendar-navigation.php:38
+msgid "Estimate Dates"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:26
+msgid "Groups that can access delivery calendar on front end"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:22
+msgid "Groups that can access order calendar on front end"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:24
+msgid "Groups that can access pickup calendar on front end"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-advance.php:49
+#: admin/class-pisol-dtt-edd-calendar-access.php:55
+msgid "Guest"
+msgstr ""
+
+#: includes/class-calendar.php:175
+msgid "Next"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-menu.php:19
+msgid "Order Calendar"
+msgstr ""
+
+#. Name of the plugin
+msgid "Order Calendar for WooCommerce"
+msgstr ""
+
+#: admin/partials/orders.php:18
+msgid "Order no"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-advance.php:84
+msgid "Order report"
+msgstr ""
+
+#: admin/class-calendar-navigation.php:26
+msgid "Orders Dates"
+msgstr ""
+
+#: admin/partials/orders.php:11
+msgid "Orders delivery on: "
+msgstr ""
+
+#: admin/partials/orders.php:9
+msgid "Orders pickup on: "
+msgstr ""
+
+#: admin/partials/orders.php:7
+msgid "Orders placed on: "
+msgstr ""
+
+#. Author of the plugin
+msgid "PI Websolution"
+msgstr ""
+
+#: admin/class-calendar-navigation.php:34
+msgid "Pickup Dates"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "piwebsolution.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "piwebsolution.com/pisol-dtt-edd-calendar"
+msgstr ""
+
+#: order-calendar-for-woocommerce.php:43
+msgid ""
+"Please Install and Activate WooCommerce plugin, without that this plugin "
+"cant work"
+msgstr ""
+
+#: order-calendar-for-woocommerce.php:56
+msgid ""
+"Please uninstall the Pro version of Order Calendar for WooCommerce and type "
+"then activate the Free version"
+msgstr ""
+
+#: includes/class-calendar.php:173
+msgid "Prev"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show orders received on a calendar"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-advance.php:81
+msgid "Total product report"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:28
+msgid "Who can access Customer detail in the order"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:26
+msgid "Who can access Delivery Calendar"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:22
+msgid "Who can access Order Calendar"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:24
+msgid "Who can access Pickup Calendar"
+msgstr ""
+
+#: admin/class-pisol-dtt-edd-calendar-access.php:30
+msgid "Who can access Product detail in the order"
+msgstr ""
